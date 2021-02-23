@@ -22,6 +22,10 @@ p {
 .unableColor{
   color:  rgb(188, 175, 190)}
 
+a.hero:link{text-decoration: none;}
+a.hero{color: rgba(255, 254, 254, 0.644);}
+a.hero:hover{color: white;}
+
 
 .customNav {
   position: fixed;
